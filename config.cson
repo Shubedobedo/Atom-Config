@@ -1,0 +1,33 @@
+"*":
+  "atom-material-ui":
+    colors: {}
+    tabs:
+      noTabMinWidth: true
+      tintedTabBar: true
+    treeView:
+      blendTabs: true
+      compactList: true
+    ui: {}
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontFamily: "roboto mono"
+    fontSize: 16
+    scrollPastEnd: true
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "91399af8-e038-86b9-9fe3-4fce71a559d3"
+  "git-plus": {}
+  pigments:
+    markerType: "dot"
+  "platformio-ide-terminal":
+    core:
+      shell: "C:\\WINDOWS\\System32\\cmd.exe"
+  "terminal-plus":
+    core:
+      shell: "C:\\WINDOWS\\System32\\cmd.exe"
+    style: {}
